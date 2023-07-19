@@ -9,12 +9,12 @@ https://school.programmers.co.kr/learn/courses/30/lessons/181926
 수 조작하기2
 https://school.programmers.co.kr/learn/courses/30/lessons/181925
 
-수열과 구간 쿼리2
+수열과 구간 쿼리 2
 https://school.programmers.co.kr/learn/courses/30/lessons/181923
 
-수열과 구간 쿼리3
+수열과 구간 쿼리 3
 https://school.programmers.co.kr/learn/courses/30/lessons/181924
 
-
-
+수열과 구간 쿼리 4
+https://school.programmers.co.kr/learn/courses/30/lessons/181922
 
