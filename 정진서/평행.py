@@ -10,3 +10,5 @@ def solution(dots):
 
 dots = [[1, 0], [9, 2], [3, 8], [11, 6]]
 solution(dots)
+
+## 기울기로 확인
