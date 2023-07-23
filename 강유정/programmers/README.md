@@ -25,3 +25,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/181920
 9로 나눈 나머지
 https://school.programmers.co.kr/learn/courses/30/lessons/181914
 
+글자 이어 붙여 문자열 만들기
+https://school.programmers.co.kr/learn/courses/30/lessons/181915
