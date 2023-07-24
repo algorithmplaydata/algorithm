@@ -1,0 +1,5 @@
+def solution(my_string, index_list):
+    answer = ''
+    resultList = [ my_string[index_list[i]] for i in range(len(index_list))]
+    answer = ''.join(resultList)
+    return answer
